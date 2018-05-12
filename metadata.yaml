@@ -1,0 +1,28 @@
+_repo: Preventable-Diseases_21965
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hutchinson, Woods
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '8109'
+    url: http://www.gutenberg.org/2009/agents/8109
+    wikipedia: http://en.wikipedia.org/wiki/Woods_Hutchinson
+description: ''
+gutenberg_issued: '2007-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21965'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hygiene'
+- !lcc 'RC'
+- !lcsh 'Medicine'
+title: Preventable Diseases
+url: http://www.gutenberg.org/ebooks/21965
